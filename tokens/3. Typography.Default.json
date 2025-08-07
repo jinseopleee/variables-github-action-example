@@ -1,0 +1,320 @@
+{
+  "Typography": {
+    "Font Family": {
+      "fontFamily": {
+        "$type": "string",
+        "$value": "Pretendard",
+        "$description": "In Figma, we use &quot;SF Pro Text&quot; as a default font family. Ant Design of React uses system font family &quot;-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, &#39;Helvetica Neue&#39;, Arial, &#39;Noto Sans&#39;, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;, &#39;Noto Color Emoji&#39;&quot;.",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontFamilyCode": {
+        "$type": "string",
+        "$value": "Courier Prime",
+        "$description": "In Figma, we use &quot;Courier Prime&quot; as a default code font family. Ant Design of React uses system font family &quot;&#39;SFMono-Regular&#39;, Consolas, &#39;Liberation Mono&#39;, Menlo, Courier, monospace&#39;&quot;.",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_FAMILY"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Font Size": {
+      "fontSize": {
+        "$type": "number",
+        "$value": 14,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeLG": {
+        "$type": "number",
+        "$value": 16,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeSM": {
+        "$type": "number",
+        "$value": 12,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeXL": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeHeading1": {
+        "$type": "number",
+        "$value": 38,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeHeading2": {
+        "$type": "number",
+        "$value": 30,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeHeading3": {
+        "$type": "number",
+        "$value": 24,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeHeading4": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeHeading5": {
+        "$type": "number",
+        "$value": 16,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontSizeIcon": {
+        "$type": "number",
+        "$value": 12,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_SIZE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Line Height": {
+      "lineHeight": {
+        "$type": "number",
+        "$value": 22,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "lineHeightLG": {
+        "$type": "number",
+        "$value": 24,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "lineHeightSM": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "lineHeightHeading1": {
+        "$type": "number",
+        "$value": 46,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "lineHeightHeading2": {
+        "$type": "number",
+        "$value": 38,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "lineHeightHeading3": {
+        "$type": "number",
+        "$value": 32,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "lineHeightHeading4": {
+        "$type": "number",
+        "$value": 28,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "lineHeightHeading5": {
+        "$type": "number",
+        "$value": 24,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "LINE_HEIGHT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Font Weight": {
+      "fontWeightNormal": {
+        "$type": "number",
+        "$value": 400,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_STYLE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "fontWeightStrong": {
+        "$type": "number",
+        "$value": 600,
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "FONT_STYLE"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    }
+  }
+}
